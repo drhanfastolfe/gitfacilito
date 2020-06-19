@@ -87,14 +87,6 @@ p
 	font-size: 70px;
 }
 
-.btn
-{
-	padding: 0.5rem;
-	background-color: #E56C00;
-	color: black;
-	border-radius: 5px;
-}
-
 /*Animación*/
 @keyframes float
 {
@@ -105,7 +97,7 @@ p
 }
 
 /* Media queries*/
-@media (min-width: 769px)
+@media all and (min-width: 769px)
 {
 	h1
 	{

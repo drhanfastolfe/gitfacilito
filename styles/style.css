@@ -87,6 +87,23 @@ p
 	font-size: 70px;
 }
 
+.btn
+{
+	padding: 10px 20px;
+	border-radius: 5px;
+	border: #F0B708;
+	background-color: blue;
+	color: black;
+	margin: 10px 0;
+	display: inline-block;
+	transition: 0.3s;
+}
+
+.btn:hover
+{
+	transform: scale(1.2);	
+}
+
 /*Animación*/
 @keyframes float
 {

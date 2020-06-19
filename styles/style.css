@@ -89,10 +89,13 @@ p
 
 .btn
 {
-	padding: 0.5rem;
-	background-color: #E56C00;
-	color: black;
+	padding: 10px 20px;
 	border-radius: 5px;
+	border: #F0B708;
+	background-color: blue;
+	color: black;
+	margin: 10px 0;
+	display: inline-block;
 }
 
 /*Animación*/
@@ -105,7 +108,7 @@ p
 }
 
 /* Media queries*/
-@media (min-width: 769px)
+@media all and (min-width: 769px)
 {
 	h1
 	{

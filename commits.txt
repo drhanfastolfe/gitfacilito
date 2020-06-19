@@ -1,0 +1,17 @@
+commit da1895b69b3f3b22abb91e369f5e73f973f9ef4f
+Author: Hamza <hamzzza56@gmail.com>
+Date:   Fri Jun 19 04:10:02 2020 +0200
+
+    Se agrego un parrafo y se cambio los estilos del boton
+
+commit 248bf472dab63e4ff38b8cba908efe1cf107497c
+Author: Hamza <hamzzza56@gmail.com>
+Date:   Fri Jun 19 01:01:04 2020 +0200
+
+    Copiamos html y css de codigo facilito
+
+commit 794ce077daf0a6303dd9fc76009b72528c3745b3
+Author: Hamza <hamzzza56@gmail.com>
+Date:   Thu Jun 18 22:16:44 2020 +0200
+
+    Iniciamos la prueba

@@ -57,9 +57,12 @@ h1
 
 .info h2
 {
-	font-size: 40px;
+	font-size: 50px;
 	margin: 0;
 	text-align: center;
+	margin: 15px 0;
+	text-transform: uppercase;
+	letter-spacing: 5px;
 }
 
 .infoContent
